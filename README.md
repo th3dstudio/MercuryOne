@@ -1,7 +1,11 @@
-This is a placeholder README.md file. Thanks for your understanding, more to come!
+# ZeroG Mercury One - Branched by TH3D Studio
 
-Version History:
+## Source files:
 
-V0.1 - Initial File Upload, UNTESTED USE AT YOUR OWN RISK
-V0.1.1 - Test from Tor
+These files were obtained from the ZeroG Mercury One configurators. The ZeroG Mercury One is an open-source project. Please see their site for additional details: https://docs.zerog.one/manual/build/mercury_eva/printed_files
+
+## Work In Progress
+
+Please stay tuned for more information!
+
 - TH3D Studio
