@@ -1,6 +1,6 @@
 **EVA 2.4 carriage files obtained 9/21/2022 from the EVA Configurator on ZeroG's Mercury One website: https://docs.zerog.one/manual/build/mercury_eva/printed_files**
 
-These files are ZeroG's EVA 2.4 carriage for the Mercury One open-source project. We used their configurator to grab files designed for **BMG-style extruders** and **E3D V6-compatible hot-ends** with **inductive sensor mounts**.
+These files are ZeroG's modified EVA 2.4 carriage for the Mercury One open-source project. We used their configurator to grab files designed for **BMG-style extruders** and **E3D V6-compatible hot-ends** with **inductive sensor mounts**.
 
 The Mercury One system cannot operate without a minimum of carriage components, as these are the terminal points for the belts. **At a minimum, to complete the Mercury One motion system you will require the top carriage component to attach to the MGN rail, the front universal faceplate, and two printed belt clamps:**
 
