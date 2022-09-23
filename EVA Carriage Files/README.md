@@ -1,4 +1,4 @@
-**EVA 2.4 carriage files obtained 9/21/2022 from the EVA Configurator on ZeroG's Mercury One website: https://docs.zerog.one/manual/build/mercury_eva/printed_files**
+# EVA 2.4 Carriage and Hot-end System
 
 These files are ZeroG's modified EVA 2.4 carriage for the Mercury One open-source project. We used their configurator to grab files designed for **BMG-style extruders** and **E3D V6-compatible hot-ends** with **inductive sensor mounts**.
 
@@ -13,5 +13,12 @@ The Mercury One system cannot operate without a minimum of carriage components, 
 - EVA2-4_Bottom_V1-1.stl
 - EVA_Backplate_Merc_Support_V1-1.stl
 
-For more information about the ZeroG Mercury One project files, please see: https://docs.zerog.one/manual/build/mercury_eva/printed_files
-For more information about the EVA carriage, please see: https://2.eva-3d.page/
+# Source files and Attributions:
+
+These files were obtained 9/21/2022 from the ZeroG Mercury One configurators. The ZeroG Mercury One is under development as an open-source project. [Please see the ZeroG Mercury One site for additional details.](https://docs.zerog.one/manual/build/mercury_eva/printed_files)
+
+[Video installation guide provided by the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
+
+This project assumes the use of the [Mercury One hardware kit by Fabreeko.](https://www.fabreeko.com/collections/mods/products/mercury-one-kit?variant=43030259073279)
+
+This project uses a modified version of the [EVA 2.4 carriage assembly originally by Paweł Kucmus.](https://2.eva-3d.page/)

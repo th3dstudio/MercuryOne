@@ -1,6 +1,6 @@
 # ZeroG Mercury One - Branched by TH3D Studio
 
-## Source files:
+## Source files and Attributions:
 
 These files were obtained from the ZeroG Mercury One configurators. The ZeroG Mercury One is an open-source project. [Please see the ZeroG Mercury One site for additional details.](https://docs.zerog.one/manual/build/mercury_eva/printed_files)
 
