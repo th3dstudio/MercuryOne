@@ -20,7 +20,7 @@ Alternatively, you may choose to use the Afterburner or Stealthburner carriages 
 
 These files were obtained 8/1/2022 from the ZeroG Mercury One configurators. The ZeroG Mercury One is under development as an open-source project. [Please see the ZeroG Mercury One site for additional details.](https://docs.zerog.one/manual/build/mercury_eva/printed_files)
 
-[Video installation guide provided by the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
+[Video installation guide available at the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
 
 This project assumes the use of the [Mercury One hardware kit by Fabreeko.](https://www.fabreeko.com/collections/mods/products/mercury-one-kit?variant=43030259073279)
 
