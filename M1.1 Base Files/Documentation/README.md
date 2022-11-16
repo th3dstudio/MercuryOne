@@ -1,21 +1,21 @@
 # Total BOM
 
 ### Main hardware components
-- 2x motors
-- 3x rails
-- 1x gantry extrusion, 2020
-- Belt (5m, cut-to-length during installation)
-- 2x microswitch (or use sensorless homing if desired/available)
+- 2x standard (matching) stepper motors
+- 3x MGN12H linear rails (330mm)
+- 1x gantry extrusion (2020 V-slot, 370mm length)
+- 2GT Belt (6mm width, >5 meter length, cut-to-length during installation)
+- 2x Omron D2F-5L microswitch (or use sensorless homing if desired/available)
 
 ### Idler and pulley components:
-- 10x dowel pins
-- 20x shims
-- 20x bearing halves
-- 2x toothed pulley for motor shaft
-- 2x toothed idler bearing
+- 10x M5x30mm precision dowel pins
+- 20x M5x10x1mm shim rings
+- 20x F695-2RS 5x13x4mm flange bearings
+- 2x GT2 toothed pulleys (20tooth, OD 7mm, ID 5mm)
+- 2x 2GT 20T toothed idler bearings
 
 ### M3 hardware:
-- 8x M3 heat set inserts
+- 8x M3x4x5mm heat-set inserts
 - 22x M3 T-nuts (spring-lock or standard)
 - 30x M3x8mm screws
 - 8x M3x20mm screws
@@ -64,47 +64,47 @@ This means you can either use the 1 and 2 for clarity, or print two of either fi
 # BOM Breakdown By Component
 
 ## Mechanics:
-- 2x motors
-- 3x rails
-- 1x gantry extrusion 2020
-- Belt
-- 2x microswitches
+- 2x standard (matching) stepper motors
+- 3x MGN12H linear rails (330mm)
+- 1x gantry extrusion (2020 V-slot, 370mm length)
+- 2GT Belt (6mm width, >5 meter length, cut-to-length during installation)
+- 2x Omron D2F-5L microswitch (or use sensorless homing if desired/available)
 
 ## Stepper towers:
 - 4x dowel pins
-- 12x shims
-- 12x bearing halves
-- 6x M3x20 to attach motors to towers
-- 2x toothed pulley for motor shaft
-- 4x M5x50 to attach towers to frame
+- 12x M5 shims
+- 12x flanged bearings
+- 6x M3x20mm screws to attach motors to towers
+- 2x GT2 pulleys for motor shafts
+- 4x M5x50mm screws to attach towers to frame
 - 4x M5 T-nuts
 
 ## Tensioners:
-- 2x heat set (front)
-- 2x dowel pin
-- 4x bearing halves
-- 4x shims
-- 4x M3x8 to attach plates to frame (or tap and use 1x screw)
-- 4x M3 T-nuts to attach plates to frame (or tap and use 1x screw)
-- 2x M5 T-nut to attach tensioner to frame
-- 2x M5x20 to attach and lock tensioner to frame
-- 2x M3x20 for belt tension adjustment (between tensioner plate and tensioner tower)
+- 2x heat-set inserts (front)
+- 2x dowel pins
+- 4x flanged bearings
+- 4x M5 shims
+- 4x M3x8mm screws to attach tensioner plates to frame (or tap and use 1x screw)
+- 4x M3 T-nuts to attach tensioner plates to frame (or tap and use 1x screw)
+- 2x M5 T-nut to attach and lock tensioner towers to frame
+- 2x M5x20mm screws to attach and lock tensioner to frame
+- 2x M3x20mm screws for belt tension adjustment (between tensioner plate and tensioner tower)
 
 ## X joints:
 
-- 6x heat sets (undersides)
+- 6x heat-set inserts (undersides)
 - 4x dowel pins
-- 2x toothed bearing pulley
+- 2x GT2 idler bearings
 - 4x shims
-- 4x bearing halves
-- 6x M3x30 for attaching X joint halves together
-- 8x M3x8 to attach assembled joints to rail carriages
+- 4x flanged bearings
+- 6x M3x30mm screws for clamping X joint halves together
+- 8x M3x8mm screws to attach X joints to MGN12H rail carriages
 - 8x M5 T-nuts to hold extrusion in place
-- 8x M5x12 to hold extrusion in place
+- 8x M5x12mm screws to hold extrusion in place
 
 ## Rails:
 - 18x M3 T-nuts (6x per rail, 3x rails total)
-- 18x M3x8 (6x per rail, 3x rails total)
+- 18x M3x8mm screws (6x per rail, 3x rails total)
 
 ## Y Endstop:
 - 2x M5x10mm screws to attach housing to frame
