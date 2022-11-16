@@ -34,28 +34,28 @@ https://github.com/th3dstudio/MercuryOne/tree/main/M1.1%20Base%20Files
 
 Print one of each of the following:
 
-FlangeSpacer_short_1.stl
-FlangeSpacer_short_2.stl
-FlangeSpacer_tall_1.stl
-FlangeSpacer_tall_2.stl
-XJoint_left_bottom.stl
-XJoint_left_top.stl
-XJoint_right_bottom.stl
-XJoint_right_top.stl
-Z_DropBracket_5Pro_1.stl
-Z_DropBracket_5Pro_2.stl
-front_tension_plate_t-nut_1.stl
-front_tension_plate_t-nut_2.stl
-front_tower_left.stl
-front_tower_right.stl
-stepper_mount_bottom_left.stl
-stepper_mount_bottom_right.stl
-stepper_mount_top_left.stl
-stepper_mount_top_right.stl
-tIdlerSpacer_short_1.stl
-tIdlerSpacer_short_2.stl
-tIdlerSpacer_tall_1.stl
-tIdlerSpacer_tall_2.stl
+- FlangeSpacer_short_1.stl
+- FlangeSpacer_short_2.stl
+- FlangeSpacer_tall_1.stl
+- FlangeSpacer_tall_2.stl
+- XJoint_left_bottom.stl
+- XJoint_left_top.stl
+- XJoint_right_bottom.stl
+- XJoint_right_top.stl
+- Z_DropBracket_5Pro_1.stl
+- Z_DropBracket_5Pro_2.stl
+- front_tension_plate_t-nut_1.stl
+- front_tension_plate_t-nut_2.stl
+- front_tower_left.stl
+- front_tower_right.stl
+- stepper_mount_bottom_left.stl
+- stepper_mount_bottom_right.stl
+- stepper_mount_top_left.stl
+- stepper_mount_top_right.stl
+- tIdlerSpacer_short_1.stl
+- tIdlerSpacer_short_2.stl
+- tIdlerSpacer_tall_1.stl
+- tIdlerSpacer_tall_2.stl
 
 One of each file is fine. Note that the ones marked "1" and "2" are identical to each other, but are arranged this way so it's easy to track and make sure you have all of the pieces.
 
