@@ -3,14 +3,16 @@
 - <a href="#kits">Complete Mercury 1 Kits</a>
 - <a href="#total-bom">Hardware Bill-Of-Materials</a>
 - <a href="#printed-components">Printed Components</a>
+- <a href="#bom-breakdown">BOM Breakdown By Component</a>
+- <a href="#not-included">This BOM Does Not Include...</a>
 
 # Complete Mercury 1 Kits
-<a name="#kits"></a>
+<a name="kits"></a>
 
 A complete Mercury 1 kit (minus printed parts) is available from Fabreeko. This kit includes the hardware below plus spares, as well as additional extras. Check them out at [fabreeko.com](https://www.fabreeko.com/)!
 
-# Hardware Bill-Of-Materials
 <a name="total-bom"></a>
+# Hardware Bill-Of-Materials
 
 The specifications and bill-of-materials below are designed for the Ender 5 Pro version of the Mercury 1. Kits are also available for the Ender 5 Plus that include extended linear rails and gantry extrusion.
 
@@ -42,6 +44,7 @@ The specifications and bill-of-materials below are designed for the Ender 5 Pro 
 - 2x M5x20mm screws
 - 4x M5x50mm screws
 
+<a name="printed-components"></a>
 # Printed Components
 
 Print one of each of the following:
@@ -71,6 +74,7 @@ Print one of each of the following:
 
 Note that the ones marked "1" and "2" are identical to each other, but are arranged this way so it's easy to track and make sure you have all of the pieces.
 
+<a name="bom-breakdown"></a>
 # BOM Breakdown By Component
 
 ## Mechanics:
@@ -143,6 +147,7 @@ Note that the ones marked "1" and "2" are identical to each other, but are arran
 - [Z_DropBracket_5Pro_1.stl](../Z_DropBracket_5Pro_1.stl)
 - [Z_DropBracket_5Pro_2.stl](../Z_DropBracket_5Pro_2.stl)
 
+<a name="not-included"></a>
 # This BOM Does not include...
 
 - Belt clamps or hot-end carriage assembly (meaning this BOM alone cannot complete the motion system)
