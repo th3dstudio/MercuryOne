@@ -1,4 +1,10 @@
-# Total BOM
+# Complete Mercury 1 Kits
+
+A complete Mercury 1 kit is available from Fabreeko. This kit includes the hardware below plus spares, as well as additional extras. Check them out at [fabreeko.com](https://www.fabreeko.com/)!
+
+# Total Bill-Of-Materials
+
+The specifications and bill-of-materials below are designed for the Ender 5 Pro version of the Mercury 1. Kits are also available for the Ender 5 Plus that include extended linear rails and gantry extrusion.
 
 ### Main hardware components
 - 2x standard (matching) stepper motors
@@ -38,12 +44,6 @@ Print one of each of the following:
 - FlangeSpacer_short_2.stl
 - FlangeSpacer_tall_1.stl
 - FlangeSpacer_tall_2.stl
-- XJoint_left_bottom.stl
-- XJoint_left_top.stl
-- XJoint_right_bottom.stl
-- XJoint_right_top.stl
-- Z_DropBracket_5Pro_1.stl
-- Z_DropBracket_5Pro_2.stl
 - front_tension_plate_t-nut_1.stl
 - front_tension_plate_t-nut_2.stl
 - front_tower_left.stl
@@ -56,10 +56,14 @@ Print one of each of the following:
 - tIdlerSpacer_short_2.stl
 - tIdlerSpacer_tall_1.stl
 - tIdlerSpacer_tall_2.stl
+- XJoint_left_bottom.stl
+- XJoint_left_top.stl
+- XJoint_right_bottom.stl
+- XJoint_right_top.stl
+- Z_DropBracket_5Pro_1.stl
+- Z_DropBracket_5Pro_2.stl
 
-One of each file is fine. Note that the ones marked "1" and "2" are identical to each other, but are arranged this way so it's easy to track and make sure you have all of the pieces.
-
-This means you can either use the 1 and 2 for clarity, or print two of either file for instancing.
+Note that the ones marked "1" and "2" are identical to each other, but are arranged this way so it's easy to track and make sure you have all of the pieces.
 
 # BOM Breakdown By Component
 
@@ -71,6 +75,10 @@ This means you can either use the 1 and 2 for clarity, or print two of either fi
 - 2x Omron D2F-5L microswitch (or use sensorless homing if desired/available)
 
 ## Stepper towers:
+- stepper_mount_bottom_left.stl
+- stepper_mount_bottom_right.stl
+- stepper_mount_top_left.stl
+- stepper_mount_top_right.stl
 - 4x dowel pins
 - 12x M5 shims
 - 12x flanged bearings
@@ -80,6 +88,10 @@ This means you can either use the 1 and 2 for clarity, or print two of either fi
 - 4x M5 T-nuts
 
 ## Tensioners:
+- front_tension_plate_t-nut_1.stl
+- front_tension_plate_t-nut_2.stl
+- front_tower_left.stl
+- front_tower_right.stl
 - 2x heat-set inserts (front)
 - 2x dowel pins
 - 4x flanged bearings
@@ -91,7 +103,18 @@ This means you can either use the 1 and 2 for clarity, or print two of either fi
 - 2x M3x20mm screws for belt tension adjustment (between tensioner plate and tensioner tower)
 
 ## X joints:
-
+- FlangeSpacer_short_1.stl
+- FlangeSpacer_short_2.stl
+- FlangeSpacer_tall_1.stl
+- FlangeSpacer_tall_2.stl
+- tIdlerSpacer_short_1.stl
+- tIdlerSpacer_short_2.stl
+- tIdlerSpacer_tall_1.stl
+- tIdlerSpacer_tall_2.stl
+- XJoint_left_bottom.stl
+- XJoint_left_top.stl
+- XJoint_right_bottom.stl
+- XJoint_right_top.stl
 - 6x heat-set inserts (undersides)
 - 4x dowel pins
 - 2x GT2 idler bearings
@@ -109,6 +132,10 @@ This means you can either use the 1 and 2 for clarity, or print two of either fi
 ## Y Endstop:
 - 2x M5x10mm screws to attach housing to frame
 - 2x M5 T-nuts to attach housing to frame
+
+## Z Drop Brackets:
+- Z_DropBracket_5Pro_1.stl
+- Z_DropBracket_5Pro_2.stl
 
 # This BOM Does not include...
 
