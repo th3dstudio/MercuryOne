@@ -1,21 +1,30 @@
 # Mercury One Installation Instructions
 
+## Table of Contents
+
+1. <a href="#glossary">What to Print/Glossary of Terms</a>
+2. <a href="#preparations">Prepare Kit Components and Printed Parts</a>
+3. <a href="#chassis">Ender 5 Chassis Preparation</a>
+
+
+<a name="glossary"></a>
 ## 1. What to Print/Glossary of Terms
 
 Print one of every file in the "M1.1 Base Files" directory, see [the Bill of Materials and Component list](m1_BOM-and-parts-list.md) for details. Before beginning project assembly, you should have the following:
 
-1. Stepper mounts (total 4 pieces): Each stepper mount consists of a "top" and "bottom" portion. Two complete stepper mount assemblies are required, one each for the left and right sides of the printer.
+1. **Stepper mounts** (total 4 pieces): Each stepper mount consists of a "top" and "bottom" portion. Two complete stepper mount assemblies are required, one each for the left and right sides of the printer.
 
-2. X Joints (total 4 pieces, heat-sets required): Each X Joint consists of a "top" and "bottom" portion. Two complete X joint assemblies are required, one each for the left and right sides of the printer. The "bottom" half of each assembly requires 3x heat-set inserts to be prepared ahead of time.
+2. **X Joints** (total 4 pieces, heat-sets required): Each X Joint consists of a "top" and "bottom" portion. Two complete X joint assemblies are required, one each for the left and right sides of the printer. The "bottom" half of each assembly requires 3x heat-set inserts to be prepared ahead of time.
 
-3. Front Towers (total 2 pieces, heat-sets required): Tensioning towers for the belt system, installed on the front side of the printer. One of each tower (left and right) is required. Each tower requires 1x heat-set insert (see Documentation folder for pictures) to be prepared ahead of time.
+3. **Front Towers** (total 2 pieces, heat-sets required): Tensioning towers for the belt system, installed on the front side of the printer. One of each tower (left and right) is required. Each tower requires 1x heat-set insert (see Documentation folder for pictures) to be prepared ahead of time.
 
-4. Front Tension Plates (total 2 pieces): Used with the Front Towers for tensioning the belts. Files are marked "1" and "2" for clarity/tracking, simply print one of each file as listed in the directory.
+4. **Front Tension Plates** (total 2 pieces): Used with the Front Towers for tensioning the belts. Files are marked "1" and "2" for clarity/tracking, simply print one of each file as listed in the directory.
 
-5. Spacers (total 8 pieces): There are two types of spacer needed to complete the X Joint assemblies, and each type of spacer includes a "short" and a "tall" file. "FlangeSpacer" components are used with flanged-bearing stacks and are flat on both sides. "tIdlerSpacers" are used with toothed idler pulley assemblies and have a small lip on one side for the pulley to rest on. Files are marked "1" and "2" for clarity/tracking, simply print one of each file as listed in the directory.
+5. **Spacers** (total 8 pieces): There are two types of spacer needed to complete the X Joint assemblies, and each type of spacer includes a "short" and a "tall" file. "FlangeSpacer" components are used with flanged-bearing stacks and are flat on both sides. "tIdlerSpacers" are used with toothed idler pulley assemblies and have a small lip on one side for the pulley to rest on. Files are marked "1" and "2" for clarity/tracking, simply print one of each file as listed in the directory.
 
-6. Z-Drop Brackets (total 2 pieces): These replace the aluminum smooth-rod brackets for the Z axis and provide additional clearance for the hot-end. These replace ONLY the top aluminum T-brackets, the bottom aluminum brackets are retained. Files are marked "1" and "2" for clarity/tracking, simply print one of each file as listed in the directory.
+6. **Z-Drop Brackets** (total 2 pieces): These replace the aluminum smooth-rod brackets for the Z axis and provide additional clearance for the hot-end. These replace ONLY the top aluminum T-brackets, the bottom aluminum brackets are retained. Files are marked "1" and "2" for clarity/tracking, simply print one of each file as listed in the directory.
 
+<a name="preparations"></a>
 ## 2. Prepare Kit Components and Printed Parts
 
 ### Printed Parts
@@ -34,6 +43,7 @@ You will be required to install GT2 toothed pulleys onto the X and Y motors. One
 
 Clean rails if needed. Ensure smooth motion and proper lubrication.
 
+<a name="chassis"></a>
 ## 3. Prepare Ender 5 Chassis
 
 ### Remove original X and Y components

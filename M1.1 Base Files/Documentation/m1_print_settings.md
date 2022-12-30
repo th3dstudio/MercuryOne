@@ -1,3 +1,10 @@
+# Table of Contents
+
+- <a href="#print-settings">Print Settings for Mercury One Printed Parts</a>
+- <a href="#heatsets"> Heat-Set Inserts</a>
+- <a href="#tips">Tips and Tricks</a>
+
+<a name="print-settings"></a>
 # Print Settings for Mercury One Printed Parts
 
 Recommended Materials: ABS
@@ -13,6 +20,7 @@ Recommended Materials: ABS
 - Solid top/bottom layers: 5
 - Supports: NONE
 
+<a name="heatsets"></a>
 # Heat-set Inserts
 
 Heat-set inserts should be prepared ahead of project assembly. Parts that require heat-set inserts are:
@@ -25,6 +33,7 @@ Heat-set inserts should be prepared ahead of project assembly. Parts that requir
 
 > ![m1_xjoints_heatsets.png](m1_xjoints_heatsets.png)
 
+<a name="tips"></a>
 # Tips and Tricks
 
 ## Printing Tips
