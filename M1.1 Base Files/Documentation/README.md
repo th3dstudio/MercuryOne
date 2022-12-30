@@ -1,6 +1,6 @@
 # Complete Mercury 1 Kits
 
-A complete Mercury 1 kit is available from Fabreeko. This kit includes the hardware below plus spares, as well as additional extras. Check them out at [fabreeko.com](https://www.fabreeko.com/)!
+A complete Mercury 1 kit (minus printed parts) is available from Fabreeko. This kit includes the hardware below plus spares, as well as additional extras. Check them out at [fabreeko.com](https://www.fabreeko.com/)!
 
 # Total Bill-Of-Materials
 
@@ -75,10 +75,10 @@ Note that the ones marked "1" and "2" are identical to each other, but are arran
 - 2x Omron D2F-5L microswitch (or use sensorless homing if desired/available)
 
 ## Stepper towers:
-- stepper_mount_bottom_left.stl
-- stepper_mount_bottom_right.stl
-- stepper_mount_top_left.stl
-- stepper_mount_top_right.stl
+- [stepper_mount_bottom_left.stl](../stepper_mount_bottom_left.stl)
+- [stepper_mount_bottom_right.stl](../stepper_mount_bottom_right.stl)
+- [stepper_mount_top_left.stl](../stepper_mount_top_left.stl)
+- [stepper_mount_top_right.stl](../stepper_mount_top_right.stl)
 - 4x dowel pins
 - 12x M5 shims
 - 12x flanged bearings
@@ -88,10 +88,10 @@ Note that the ones marked "1" and "2" are identical to each other, but are arran
 - 4x M5 T-nuts
 
 ## Tensioners:
-- front_tension_plate_t-nut_1.stl
-- front_tension_plate_t-nut_2.stl
-- front_tower_left.stl
-- front_tower_right.stl
+- [front_tension_plate_t-nut_1.stl](../front_tension_plate_t-nut_1.stl)
+- [front_tension_plate_t-nut_2.stl](../front_tension_plate_t-nut_2.stl)
+- [front_tower_left.stl](../front_tower_left.stl)
+- [front_tower_right.stl](../front_tower_right.stl)
 - 2x heat-set inserts (front)
 - 2x dowel pins
 - 4x flanged bearings
