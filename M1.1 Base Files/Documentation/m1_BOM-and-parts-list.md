@@ -1,8 +1,16 @@
+# TOC
+
+- <a href="#kits">Complete Mercury 1 Kits</a>
+- <a href="#total-bom">Hardware Bill-Of-Materials</a>
+- <a href="#printed-components">Printed Components</a>
+
 # Complete Mercury 1 Kits
+<a name="#kits"></a>
 
 A complete Mercury 1 kit (minus printed parts) is available from Fabreeko. This kit includes the hardware below plus spares, as well as additional extras. Check them out at [fabreeko.com](https://www.fabreeko.com/)!
 
-# Total Bill-Of-Materials
+# Hardware Bill-Of-Materials
+<a name="total-bom"></a>
 
 The specifications and bill-of-materials below are designed for the Ender 5 Pro version of the Mercury 1. Kits are also available for the Ender 5 Plus that include extended linear rails and gantry extrusion.
 
@@ -35,8 +43,6 @@ The specifications and bill-of-materials below are designed for the Ender 5 Pro 
 - 4x M5x50mm screws
 
 # Printed Components
-
-https://github.com/th3dstudio/MercuryOne/tree/main/M1.1%20Base%20Files
 
 Print one of each of the following:
 
