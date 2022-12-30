@@ -13,6 +13,18 @@ Recommended Materials: ABS
 - Solid top/bottom layers: 5
 - Supports: NONE
 
+# Heat-set Inserts
+
+Heat-set inserts should be prepared ahead of project assembly. Parts that require heat-set inserts are:
+
+1. Front Towers: Each tower (left and right) gets one heat-set insert to prevent stripping during belt tensioning.
+
+> ![m1_tensioner_heatsets.png](m1_tensioner_heatsets.png)
+
+2. X Joint Bottoms: The bottom half of each X Joint requires 3x heat-set inserts to prevent stripping when clamping the X Joint halves together.
+
+> ![m1_xjoints_heatsets.png](m1_xjoints_heatsets.png)
+
 # Tips and Tricks
 
 ## Printing Tips

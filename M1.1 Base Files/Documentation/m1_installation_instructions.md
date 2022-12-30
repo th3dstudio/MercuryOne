@@ -18,17 +18,13 @@ Print one of every file in the "M1.1 Base Files" directory, see [the Bill of Mat
 
 ## 2. Prepare Kit Components and Printed Parts
 
+### Printed Parts
+
+Print and prepare the Printed Parts according to the [Bill Of Materials](m1_BOM-and-parts-list.md#printed-components). Use [these recommended print settings](m1_print_settings.md) for best results.
+
 ### Heat-set Inserts
 
-Heat-set inserts should be prepared ahead of project assembly. Check the "Documentation" folder for pictures demonstrating where heat-set inserts are installed. Parts that require heat-set inserts are:
-
-1. Front Towers: Each tower (left and right) gets one heat-set insert to prevent stripping during belt tensioning.
-
-> ![m1_tensioner_heatsets.png](m1_tensioner_heatsets.png)
-
-2. X Joint Bottoms: The bottom half of each X Joint requires 3x heat-set inserts to prevent stripping when clamping the X Joint halves together.
-
-> ![m1_xjoints_heatsets.png](m1_xjoints_heatsets.png)
+Printed parts requiring heat-set inserts must be prepared in advance. Please see [the recommended print settings page](m1_print_settings.md) for more information.
 
 ### Motor Pulleys
 
