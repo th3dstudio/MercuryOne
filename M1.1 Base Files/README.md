@@ -4,6 +4,16 @@ This directory contains the base Mercury 1.1 files obtained from the ZeroG confi
 
 Because the ZeroG Mercury One project is under active development, there may be newer versions of the files available from ZeroG directly. Files obtained directly from ZeroG may not be backwards-compatible with the files in this package. If you wish to use the latest version of the Mercury One motion system, we recommend following instructions provided by ZeroG and obtaining the latest version of the files from their configurators directly. Documentation in this guide will reflect the files TH3D is providing in this directory ONLY.
 
+# Documentation
+
+## Bill Of Materials and Printed Parts List
+
+[m1_BOM-and-parts-list.md](./Documentation/m1_BOM-and-parts-list.md)
+
+## Installation Instructions
+
+[m1_installation_instructions.md](./Documentation/m1_installation_instructions.md)
+
 # Notes On Installation
 
 The files in this directory are provided as they were downloaded from the configurators. At time of writing, we have not modified the files in any way.

@@ -47,6 +47,17 @@ The specifications and bill-of-materials below are designed for the Ender 5 Pro 
 <a name="printed-components"></a>
 # Printed Components
 
+**We HIGHLY suggest using [these recommended print settings](m1_print_settings.md) when printing these objects:**
+
+> - First layer height 0.25mm
+> - Layer height: 0.2mm
+> - Extrusion width: 0.4mm, forced
+> - Infill pecentage: 40%
+> - Infill type: Adaptive Cubic, grid, gyroid, honeycomb, triangle, or cubic
+> - Wall count: 4
+> - Solid top/bottom layers: 5
+> - Supports: NONE
+
 Print one of each of the following:
 
 - [FlangeSpacer_short_1.stl](../FlangeSpacer_short_1.stl)

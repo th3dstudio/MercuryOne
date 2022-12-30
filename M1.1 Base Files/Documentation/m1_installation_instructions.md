@@ -2,7 +2,7 @@
 
 ## 1. What to Print/Glossary of Terms
 
-Print one of every file in the "M1.1 Base Files" directory, see README.md in this directory for more information. This should include:
+Print one of every file in the "M1.1 Base Files" directory, see [the Bill of Materials and Component list](m1_BOM-and-parts-list.md) for details. Before beginning project assembly, you should have the following:
 
 1. Stepper mounts (total 4 pieces): Each stepper mount consists of a "top" and "bottom" portion. Two complete stepper mount assemblies are required, one each for the left and right sides of the printer.
 
