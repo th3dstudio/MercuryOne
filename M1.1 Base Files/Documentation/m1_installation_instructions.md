@@ -6,7 +6,7 @@ Print one of every file in the "M1.1 Base Files" directory, see README.md in thi
 
 1. Stepper mounts (total 4 pieces): Each stepper mount consists of a "top" and "bottom" portion. Two complete stepper mount assemblies are required, one each for the left and right sides of the printer.
 
-2. X Joints (total 4 pieces, heat-sets required): Each X Joint consists of a "top" and "bottom" portion. Two complete X joint assemblies are required, one each for the left and right sides of the printer. The "bottom" half of each assembly requires 3x heat-set inserts (see Documentation folder for pictures) to be prepared ahead of time.
+2. X Joints (total 4 pieces, heat-sets required): Each X Joint consists of a "top" and "bottom" portion. Two complete X joint assemblies are required, one each for the left and right sides of the printer. The "bottom" half of each assembly requires 3x heat-set inserts to be prepared ahead of time.
 
 3. Front Towers (total 2 pieces, heat-sets required): Tensioning towers for the belt system, installed on the front side of the printer. One of each tower (left and right) is required. Each tower requires 1x heat-set insert (see Documentation folder for pictures) to be prepared ahead of time.
 
@@ -23,7 +23,12 @@ Print one of every file in the "M1.1 Base Files" directory, see README.md in thi
 Heat-set inserts should be prepared ahead of project assembly. Check the "Documentation" folder for pictures demonstrating where heat-set inserts are installed. Parts that require heat-set inserts are:
 
 1. Front Towers: Each tower (left and right) gets one heat-set insert to prevent stripping during belt tensioning.
+
+> ![m1_tensioner_heatsets.png](m1_tensioner_heatsets.png)
+
 2. X Joint Bottoms: The bottom half of each X Joint requires 3x heat-set inserts to prevent stripping when clamping the X Joint halves together.
+
+> ![m1_xjoints_heatsets.png](m1_xjoints_heatsets.png)
 
 ### Motor Pulleys
 
