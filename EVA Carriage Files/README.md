@@ -1,9 +1,3 @@
-# Current Version: 1.1.4
-
-Version 1.1.4 files use **heat-set inserts** ***in place of*** **hex nuts** during assembly.
-
-[Version 1.1.3 files](./V1.1.3) use a combination of **heat-set inserts and hex nuts** during assembly. If you prefer to use hex nuts where possible, use version 1.1.3 files instead.
-
 # EVA 2.4 Carriage and Hot-end System
 
 These files are ZeroG's modified EVA 2.4 carriage for the Mercury One open-source project. We used their configurator to grab files designed for **BMG-style extruders** and **E3D V6-compatible hot-ends** with **inductive sensor mounts**.
@@ -19,9 +13,13 @@ The Mercury One system cannot operate without a minimum of carriage components, 
 - `EVA2-4_Bottom_V1-1.stl`
 - `a_EVA_Backplate_Merc_Support_V1-1.stl`
 
+# Versioning
+
+This directory contains several versions of the EVA Carriage system for the Mercury One project. We recommend using the latest version available in this directory, however the files provided for each version should be complete and usable if desired.
+
 # Source files and Attributions:
 
-These files were obtained 2/3/2023 from the ZeroG Mercury One configurators. The ZeroG Mercury One is under development as an open-source project. [Please see the ZeroG Mercury One site for additional details.](https://docs.zerog.one/manual/build/mercury_eva/printed_files)
+These files were obtained directly from the ZeroG [Mercury One.1 configurators](https://docs.zerog.one/manual/build/mercury_eva/printed_files). ZeroG by https://zerog.one/ is licensed under a [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Used here with permission.
 
 [Video installation guide provided by the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
 

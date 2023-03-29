@@ -26,7 +26,11 @@ In this CoreXY design, the belt paths terminate on the hot-end carriage. In addi
 
 Alternatively, you may choose to use the Afterburner or Stealthburner carriages provided by ZeroG. Please see their site and instructions if you choose to use these carriages, rather than the EVA carriage from this repo.
 
-## Source files and Attributions:
+# Versioning
+
+This directory contains several versions of the Mercury One.1 motion system. We recommend using the latest version available in this directory, however the files provided for each version should be complete and usable if desired.
+
+# Source files and Attributions:
 
 These files were obtained directly from the ZeroG [Mercury One.1 configurators](https://docs.zerog.one/manual/build/mercury_eva/printed_files). ZeroG by https://zerog.one/ is licensed under a [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Used here with permission.
 
