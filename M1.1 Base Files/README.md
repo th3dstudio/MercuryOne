@@ -1,10 +1,4 @@
-# Mercury 1.1 Motion System Files
-
-This directory contains the base Mercury 1.1 files obtained from the ZeroG configurators on August 1, 2022. These files have been tested and verified by TH3D to be a complete and functional package. See the "Source Files and Attributions" section below for links to the Mercury One project.
-
-Because the ZeroG Mercury One project is under active development, there may be newer versions of the files available from ZeroG directly. Files obtained directly from ZeroG may not be backwards-compatible with the files in this package. If you wish to use the latest version of the Mercury One motion system, we recommend following instructions provided by ZeroG and obtaining the latest version of the files from their configurators directly. Documentation in this guide will reflect the files TH3D is providing in this directory ONLY.
-
-# Documentation
+# Mercury One.1 Motion System Files
 
 ## Bill Of Materials and Printed Parts List
 
