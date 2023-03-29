@@ -26,11 +26,11 @@ In this CoreXY design, the belt paths terminate on the hot-end carriage. In addi
 
 Alternatively, you may choose to use the Afterburner or Stealthburner carriages provided by ZeroG. Please see their site and instructions if you choose to use these carriages, rather than the EVA carriage from this repo.
 
-# Source files and Attributions:
+## Source files and Attributions:
 
-These files were obtained 8/1/2022 from the ZeroG Mercury One configurators. The ZeroG Mercury One is under development as an open-source project. [Please see the ZeroG Mercury One site for additional details.](https://docs.zerog.one/manual/build/mercury_eva/printed_files)
+These files were obtained directly from the ZeroG [Mercury One.1 configurators](https://docs.zerog.one/manual/build/mercury_eva/printed_files). ZeroG by https://zerog.one/ is licensed under a [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Used here with permission.
 
-[Video installation guide available at the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
+[Video installation guide provided by the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
 
 This project assumes the use of the [Mercury One hardware kit by Fabreeko.](https://www.fabreeko.com/collections/mods/products/mercury-one-kit?variant=43030259073279)
 

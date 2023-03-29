@@ -2,7 +2,7 @@
 
 ## Source files and Attributions:
 
-These files were obtained from the ZeroG Mercury One configurators. The ZeroG Mercury One is an open-source project. [Please see the ZeroG Mercury One site for additional details.](https://docs.zerog.one/manual/build/mercury_eva/printed_files)
+These files were obtained directly from the ZeroG [Mercury One.1 configurators](https://docs.zerog.one/manual/build/mercury_eva/printed_files). ZeroG by https://zerog.one/ is licensed under a [CC BY-NC-SA 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). Used here with permission.
 
 [Video installation guide provided by the Edge Of 3D Youtube channel.](https://www.youtube.com/playlist?list=PLTWoRbnsWNOh8fU8WCYN58Mdh5aLXsBGu)
 
@@ -10,8 +10,10 @@ This project assumes the use of the [Mercury One hardware kit by Fabreeko.](http
 
 This project uses a modified version of the [EVA 2.4 carriage assembly originally by Paweł Kucmus.](https://2.eva-3d.page/)
 
-## Work In Progress
+## Package Contents
 
-Please stay tuned for more information!
+This repository contains files for both the Mercury One.1 motion system and the associated EVA carriage. Our package currently assumes you will be using a **BMG-style extruder** or **Tough Extruder V2** or similar.
 
-- TH3D Studio
+Our package also assumes you will be using a **V6-compatible, groove-mounted hot-end** such as the **E3D V6 or Revo 6, Dragonfly BMO, Tough Hot-end V2** or similar.
+
+This project assumes the use of the Fabreeko Mercury One hardware kit. This kit includes rails, motors, hardware, endstop switch, belts, wiring, etc. See ZeroG's site for full BOM if you want to source these items yourself.
